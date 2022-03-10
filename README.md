@@ -1,7 +1,11 @@
-# Halo semua! 
-Perkenalkan nama saya **Surya Rosauli Pasaribu**.\
-Saya seorang **Mahasiswa** di Universitas Pembangunan Nasional "Veteran" Jawa Timur.\
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rosaulipasaribu/)ku ya.
+# Hello!
+My name is **Surya Rosauli Pasaribu**.
+
+You can call me Ros.
+
+For now, I am a **Student** at the National Development University "Veteran" East Java.
+
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/rosaulipasaribu/) account.
  
 <p align="left">
 <a href="https://github.com/asterisros">
